@@ -2,6 +2,11 @@
 	"name": "Indecision_App",
 	"version": "0.1.0",
 	"private": true,
+	"engines": {
+		"npm": "6.12.0",
+		"node": "12.13.0",
+		"yarn": "1.21.1"
+	},
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.4.0",
